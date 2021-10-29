@@ -3,6 +3,8 @@ Hello! My name is Melody Griesen. I'm currently a student at NC State University
 
 I'm currently **looking for full-time opportunities starting mid-May 2022**.
 
+My resume can be found [in this repository](https://github.com/PikaBlue107/PikaBlue107/blob/main/Melody%20Griesen%20Resume%20Fall%202021.pdf)
+
 ## Interests
 My main passion is **process automation and organization (DevOps)**.
 
