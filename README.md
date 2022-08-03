@@ -6,7 +6,7 @@ I'm currently **not looking for work**.
 My (slightly outdated) resume can be found [in this repository](https://github.com/PikaBlue107/PikaBlue107/blob/main/Melody%20Griesen%20Resume%20Fall%202021.pdf).
 
 ## Interests
-My main passion is **process automation and organization (DevOps)**.
+My main passions are **microservices** and **process automation and organization (DevOps)**.
 
 I also enjoy **teaching and mentoring**.
 
