@@ -3,7 +3,7 @@ Hello! My name is Melody Griesen. I'm currently an Associate Software Engineer a
 
 I'm currently **not looking for work**.
 
-My (slightly outdated) resume can be found [in this repository](https://github.com/PikaBlue107/PikaBlue107/blob/main/Melody%20Griesen%20Resume%20Fall%202021.pdf)
+My (slightly outdated) resume can be found [in this repository](https://github.com/PikaBlue107/PikaBlue107/blob/main/Melody%20Griesen%20Resume%20Fall%202021.pdf).
 
 ## Interests
 My main passion is **process automation and organization (DevOps)**.
